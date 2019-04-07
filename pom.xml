@@ -12,8 +12,8 @@
 	<artifactId>octopus</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>octopus</name>
-	<description>Demo project for Spring Boot</description>
-
+	<description></description>
+	<packaging>pom</packaging>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
