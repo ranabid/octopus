@@ -9,6 +9,7 @@
 		<module>octopus-dependencies</module>
 		<module>octopus-parent</module>
 		<module>octopus-data-sql</module>
+		<module>octopus-core</module>
 	</modules>
 	<name>octopus</name>
 	<description></description>

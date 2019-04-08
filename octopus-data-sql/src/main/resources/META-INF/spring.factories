@@ -1,0 +1,4 @@
+# Initializer
+org.springframework.context.ApplicationContextInitializer=\
+
+
